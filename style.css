@@ -93,6 +93,10 @@ section h1 {
     background: black;
 }
 
+.github {
+    transition: all 0.3s ease;
+}
+
 .github:hover {
     transform: scale(1.05);
     cursor: pointer;
